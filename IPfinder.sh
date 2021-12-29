@@ -19,10 +19,10 @@ function banner()
   echo -e $red "                   ___ ____     __ _           _                                    "
   echo -e $red "                  |_ _|  _ \   / _(_)_ __   __| | ___ _ __                          "            
   echo -e $red "                   | || |_) | | |_| | '_ \ / _  |/ _ \ '__|                         "
-  echo -e $blue "                   | ||  __/  |  _| | | | | (_| |  __/ |                           "
-  echo -e $blue "                  |___|_|     |_| |_|_| |_|\__,_|\___|_|                           "
+  echo -e $blue "                  | ||  __/  |  _| | | | | (_| |  __/ |                           "
+  echo -e $blue "                 |___|_|     |_| |_|_| |_|\__,_|\___|_|                           "
   echo ""
-  echo -e $blue "                           Created by Vickyarts                                    "  
+  echo -e $blue "                          Created by Vickyarts                                    "  
   echo ""
   echo ""      
 }
